@@ -13,3 +13,6 @@
 - [beautifulsoup的简单使用](./reptile/unit2/beautifulsoup.py)
 - [获取一个链接下所有链接](./reptile/unit2/getAllLink.py)
 - [获取中国大学排名](./reptile/unit2/getUniversityRank.py)
+
+## 一些简易爬虫
+- [爬取豆瓣评论生成词云](./reptile/doubanCiyun.py)
